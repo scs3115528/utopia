@@ -1,0 +1,36 @@
+{
+	"inputanalysis" : 
+	{
+		"Definitions" : [],
+		"unittests" : null
+	},
+	"sourceanalysis" : 
+	{
+		"mainfuncloc" : 
+		{
+			"FilePath" : "/UTopia/exp/cJSON/test.c",
+			"Length" : 204,
+			"Line" : 259,
+			"Offset" : 7506
+		},
+		"sourceinfo" : 
+		{
+			"/UTopia/exp/cJSON/test.c" : 
+			{
+				"endoffset" : 7711,
+				"includedheaders" : 
+				[
+					"<stdio.h>",
+					"<stdlib.h>",
+					"<string.h>",
+					"\"cJSON.h\""
+				]
+			}
+		},
+		"srcbasedir" : "/UTopia/exp/cJSON"
+	},
+	"typeanalysis" : 
+	{
+		"enums" : null
+	}
+}

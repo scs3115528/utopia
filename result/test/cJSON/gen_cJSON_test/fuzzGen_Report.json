@@ -1,0 +1,418 @@
+{
+	"API" : 
+	[
+		{
+			"Name" : "cJSON_AddArrayToObject",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_AddBoolToObject",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_AddFalseToObject",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_AddItemReferenceToArray",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_AddItemReferenceToObject",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_AddItemToArray",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_AddItemToObject",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_AddItemToObjectCS",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_AddNullToObject",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_AddNumberToObject",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_AddObjectToObject",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_AddRawToObject",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_AddStringToObject",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_AddTrueToObject",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_Compare",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_CreateArray",
+			"Status" : "NOT_FUZZABLE_NO_INPUT_PARAM",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_CreateArrayReference",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_CreateBool",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_CreateDoubleArray",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_CreateFalse",
+			"Status" : "NOT_FUZZABLE_NO_INPUT_PARAM",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_CreateFloatArray",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_CreateIntArray",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_CreateNull",
+			"Status" : "NOT_FUZZABLE_NO_INPUT_PARAM",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_CreateNumber",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_CreateObject",
+			"Status" : "NOT_FUZZABLE_NO_INPUT_PARAM",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_CreateObjectReference",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_CreateRaw",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_CreateString",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_CreateStringArray",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_CreateStringReference",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_CreateTrue",
+			"Status" : "NOT_FUZZABLE_NO_INPUT_PARAM",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_Delete",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_DeleteItemFromArray",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_DeleteItemFromObject",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_DeleteItemFromObjectCaseSensitive",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_DetachItemFromArray",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_DetachItemFromObject",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_DetachItemFromObjectCaseSensitive",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_DetachItemViaPointer",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_Duplicate",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_GetArrayItem",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_GetArraySize",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_GetErrorPtr",
+			"Status" : "NOT_FUZZABLE_NO_INPUT_PARAM",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_GetNumberValue",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_GetObjectItem",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_GetObjectItemCaseSensitive",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_GetStringValue",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_HasObjectItem",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_InitHooks",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_InsertItemInArray",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_IsArray",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_IsBool",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_IsFalse",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_IsInvalid",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_IsNull",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_IsNumber",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_IsObject",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_IsRaw",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_IsString",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_IsTrue",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_Minify",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_Parse",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_ParseWithLength",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_ParseWithLengthOpts",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_ParseWithOpts",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_Print",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_PrintBuffered",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_PrintPreallocated",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_PrintUnformatted",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_ReplaceItemInArray",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_ReplaceItemInObject",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_ReplaceItemInObjectCaseSensitive",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_ReplaceItemViaPointer",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_SetNumberHelper",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_SetValuestring",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_Version",
+			"Status" : "NOT_FUZZABLE_NO_INPUT_PARAM",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_free",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		},
+		{
+			"Name" : "cJSON_malloc",
+			"Status" : "NOT_FUZZABLE_NO_UT_OR_CALL_SEQUENCE",
+			"StatusList" : []
+		}
+	],
+	"APICount_FuzzBuildFail" : 0,
+	"APICount_FuzzBuildSuccess" : 0,
+	"APICount_FuzzSrcGenerated" : 0,
+	"APICount_FuzzSrcNotGenerated" : 0,
+	"APICount_Fuzzable" : 0,
+	"APICount_InCallSequence" : 0,
+	"APICount_NoInputParam" : 7,
+	"APICount_NoUT" : 71,
+	"APICount_NotFuzzable" : 78,
+	"APICount_Total" : 78,
+	"APICount_UnidentifiedParam" : 0,
+	"FuzzInputMutator" : "ProtoBuf",
+	"UT" : [],
+	"UTCount_FuzzBuildFail" : 0,
+	"UTCount_FuzzBuildSuccess" : 0,
+	"UTCount_FuzzSrcGenerated" : 0,
+	"UTCount_FuzzSrcNotGenerated" : 0,
+	"UTCount_Fuzzable" : 0,
+	"UTCount_NoCallSequence" : 0,
+	"UTCount_NoInputParam" : 0,
+	"UTCount_NotFuzzable" : 0,
+	"UTCount_Total" : 0,
+	"UTCount_UnidentifiedParam" : 0
+}
